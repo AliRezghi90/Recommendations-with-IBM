@@ -6,6 +6,8 @@
 <h3 align="center"><a href='https://www.udacity.com/course/data-scientist-nanodegree--nd025'>Udacity Data Scientist Nanodegree Program</a></h3>
 <h1 align="center"> Recommendation Engines with IBM </h1>
 
+The project files can be found [here](https://github.com/AliRezghi90/Udacity_Disaster_Response_Pipeline.git) 
+
 This project is a part of the Data Scientist Nanodegree by Udacity. In this project the interactions that users have with articles on the IBM Watson Studio platform are analyzed. knowledge-based filtering, collaborative filtering, and Singular Value Decomposition (SVD) methods are used tomake recommendations to IBM Watson Community users. 
 
 
